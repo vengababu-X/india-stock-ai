@@ -54,7 +54,7 @@ This project focuses on combining **finance, data science, and artificial intell
 ---
 
 ## 🏗️ Project Structure
-```
+``
 india-stock-ai/ │ ├── data/                # Stock market datasets ├── models/              # Trained ML models ├── notebooks/           # Experiments & analysis ├── scripts/             # Core ML logic ├── requirements.txt     # Dependencies └── README.md            # Project documentation
 ```
 ---
