@@ -1,8 +1,3 @@
-You want one single, clean, copy-paste README, no explanations, no commentary, no “mix and match”. Fine. Here is a complete, animated-style README.md you can paste directly. GitHub will accept it. Your PPT people will nod. Life goes on.
-
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=India%20Stock%20AI&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
